@@ -1,6 +1,8 @@
 # Daily Dog Photo Gallery 🐾
 
-![Gallery Image](https://github.com/user-attachments/assets/932fa207-0c21-4e87-9da7-85cedad30fd7)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/932fa207-0c21-4e87-9da7-85cedad30fd7" alt="Gallery Image">
+</p>
 
 A fun project where I built an automated system for my photo hobby to display a new dog photo every day. Perfect for dog lovers who want to start their day with some furry inspiration!
 
