@@ -25,7 +25,9 @@ A fun project where I built an automated system for my photo hobby to display a 
 - **HTML/CSS**: For the static web page.
 
 ## Screenshot
-![Gallery Screenshot](https://github.com/user-attachments/assets/80787775-d218-440d-84de-b188115ddd26)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80787775-d218-440d-84de-b188115ddd26" alt="Gallery Screenshot">
+</p>
 
 ## How to Run the Project
 
